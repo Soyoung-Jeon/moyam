@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+/* 노토산스 */
+@font-face { 
+	font-family: 'NotoSansCJKkr';
+	font-weight: 900;
+	src: url('../fonts/NotoSansCJKkr_EB.woff') format('woff')
+}
+
+@font-face { 
+	font-family: 'NotoSansCJKkr';
+	font-weight: 600;
+	src: url('../fonts/NotoSansCJKkr_B.woff') format('woff')
+}
+
+@font-face { 
+	font-family: 'NotoSansCJKkr';
+	font-weight: 400;
+	src: url('../fonts/NotoSansCJKkr_R.woff') format('woff')
+}
+
+@font-face { 
+	font-family: 'NotoSansCJKkr';
+	font-weight: 100;
+	src: url('../fonts/NotoSansCJKkr_L.woff') format('woff')
+}
+
+/* 로고 */
+@font-face { 
+	font-family: 'Anja-Eliane';
+	src: url('../fonts/Anja-Eliane.woff') format('woff')
+}
+
+/* 에러페이지 */
+@font-face { 
+	font-family: 'TmonMonsori';
+	src: url('../fonts/TmonMonsori.woff') format('woff')
+}
